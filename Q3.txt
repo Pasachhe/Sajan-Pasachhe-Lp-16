@@ -1,0 +1,17 @@
+Q3 Test scenarios to examine the LOGIN page are as follows:
+
+
+Verify that user is able to login with valid username and password.
+Verify that user is not able to login with invalid username and password.
+Verify the session runs with the user name after the user login.
+Verify the forgot password link is directed to the forgot password page.
+Verify that validation message gets displayed in case user leaves username or password field as blank.
+Verify that validation message is displayed in case user exceeds the character limit of the user name and password fields.
+Verify if the login page facilitates to remember user credentials.
+Verify that the password is in encrypted form when entered.
+Verify that there is limit on the total number of unsuccessful attempts.
+For security point of view, in case of in correct credentials user is displayed the message like "incorrect username or password" instead of exact message pointing at the field that is incorrect. As message like "incorrect username" will aid hacker in bruteforcing the fields one by one
+Verify if the password can be copy-pasted or not.
+Verify that once logged in, clicking back button doesn't logout user.
+Verify if SQL Injection attacks works on login page.
+Verify the timeout of the login session.
