@@ -1,0 +1,16 @@
+Q4 	If i have to consult a mobile app or a website design for a startup custom designed/printed tshirts i would choose a web based cross 		platform service to access the customer in all the situations.
+
+The application design is as follows:
+
+a) 	Like in an online shopping sites, it also facilitates 
+	- online buying and shipping.
+	- user login
+	- keeping the database of variety of categories of Color, Age group, Season, Fashion and many more.
+	- (Find my shirt): Variety if categories where you can Meet your new favourate TEEE.... choose from 1000s of style.
+	- Custom crop tops and tanks .... shipped straight to your doors
+
+
+b)	Design Your Own
+	- Create your own shirts in the oline design studio.
+	- Provided numerious templates and tools.
+
